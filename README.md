@@ -16,22 +16,24 @@ Welcome to the Web Designing Batch 01 course! This 3-month course will cover ess
    - Bootstrap
 
 ### Schedule
-
-Day 1: Wednesday, [03/07/2024]
-
 <table>
   <thead>
     <tr>
+       <th>Days</th>
       <th>Class Focus</th>
       <th>Completed Sections</th>
-      <th>In Progress</th>
     </tr>
   </thead>
   <tbody>
     <tr>
+       <td>Day 1: Wednesday, [03/07/2024]</td>
       <td>MS Word</td>
       <td>Home section</td>
-      <td>Insert section (half completed)</td>
+    </tr>
+      <tr>
+       <td>Day 1: Wednesday, [10/07/2024]</td>
+      <td>MS Word</td>
+      <td>Insert section</td>
     </tr>
   </tbody>
 </table>
