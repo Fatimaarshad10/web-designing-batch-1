@@ -16,6 +16,7 @@ Welcome to the Web Designing Batch 01 course! This 3-month course will cover ess
    - Bootstrap
 
 ### Schedule
+ <h1>Ms Word</h1>
 <table>
   <thead>
     <tr>
@@ -25,7 +26,6 @@ Welcome to the Web Designing Batch 01 course! This 3-month course will cover ess
     </tr>
   </thead>
   <tbody>
-     <h1>Ms Word</h1>
     <tr>
        <td>Day 01: Wednesday, [03/07/2024]</td>
       <td>MS Word</td>
@@ -41,8 +41,6 @@ Welcome to the Web Designing Batch 01 course! This 3-month course will cover ess
       <td>MS Word</td>
       <td>Design Section <b> Layout Section <b> Reference Section <b> Mailing Section </td>
     </tr>
-     <h1>Ms Excel</h1>
-         
   </tbody>
 </table>
-
+ <h1>Ms Excel</h1>
