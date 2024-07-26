@@ -28,12 +28,17 @@ Welcome to the Web Designing Batch 01 course! This 3-month course will cover ess
     <tr>
        <td>Day 01: Wednesday, [03/07/2024]</td>
       <td>MS Word</td>
-      <td>Home section</td>
+      <td>Home Section</td>
     </tr>
       <tr>
        <td>Day 02: Wednesday, [10/07/2024]</td>
       <td>MS Word</td>
-      <td>Insert section</td>
+      <td>Insert Section</td>
+    </tr>
+      <tr>
+       <td>Day 03: Wednesday, [24/07/2024]</td>
+      <td>MS Word</td>
+      <td>Design Section <b> Layout Section <b> Reference Section <b> Mailing Section </td>
     </tr>
   </tbody>
 </table>
