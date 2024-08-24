@@ -51,12 +51,18 @@ Welcome to the Web Designing Batch 01 course! This 3-month course will cover ess
       <th>Class Focus</th>
       <th>Completed Sections</th>
     </tr>
+     
   </thead>
   <tbody>
     <tr>
        <td>Day 04: Wednesday, [07/08/2024]</td>
       <td>MS Excel</td>
       <td>Home Section</td>
+    </tr>
+      <tr>
+       <td>Day 05 Wednesday, [21/08/2024]</td>
+      <td>MS Excel</td>
+      <td>Home , Insert Section </td>
     </tr>
   </tbody>
 </table>
