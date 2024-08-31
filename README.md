@@ -64,5 +64,10 @@ Welcome to the Web Designing Batch 01 course! This 3-month course will cover ess
       <td>MS Excel</td>
       <td>Home , Insert Section </td>
     </tr>
+      <tr>
+       <td>Day 06 Wednesday, [28/08/2024]</td>
+      <td>MS Excel</td>
+      <td>Layout , Formula , Data Section </td>
+    </tr>
   </tbody>
 </table>
