@@ -69,5 +69,16 @@ Welcome to the Web Designing Batch 01 course! This 3-month course will cover ess
       <td>MS Excel</td>
       <td>Layout , Formula , Data Section </td>
     </tr>
+      </tr>
+      <tr>
+       <td>Day 07 Wednesday, [04/09/2024]</td>
+      <td>MS PowerPoint</td>
+      <td>Complete</td>
+    </tr>
+     <tr>
+       <td>Day 08 Wednesday, [11/09/2024]</td>
+      <td>HTML (HYPER TEXT MARKUP LANGUAGE)</td>
+      <td>Structure , text , lists </td>
+    </tr>
   </tbody>
 </table>
