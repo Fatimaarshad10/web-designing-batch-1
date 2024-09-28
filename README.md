@@ -1,4 +1,4 @@
-# Web Designing Batch 01 - Course README
+# Web Designing Batch 01 
 
 ## Course Overview
 Welcome to the Web Designing Batch 01 course! This 3-month course will cover essential tools and technologies to kickstart your journey into web design and development.
