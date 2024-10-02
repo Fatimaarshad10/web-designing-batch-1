@@ -84,11 +84,16 @@ Welcome to the Web Designing Batch 01 course! This 3-month course will cover ess
        <td>Day 09 Wednesday, [18/09/2024]</td>
       <td>HTML (HYPER TEXT MARKUP LANGUAGE)</td>
       <td>Links , Image , Table</td>
-    </tr
-        <tr>
+    </tr>
+    <tr>
        <td>Day 10 Wednesday, [25/09/2024]</td>
       <td>HTML (HYPER TEXT MARKUP LANGUAGE)</td>
       <td>Form , div/span , block/inline , id/class , CSS (Inline , External , Internal) </td>
+    </tr>
+    <tr>
+       <td>Day 11 Wednesday, [02/10/2024]</td>
+      <td>CSS (CASCADING STYLE SHEET)</td>
+      <td>CSS (color , background-color , font , text) </td>
     </tr>
   </tbody>
 </table>

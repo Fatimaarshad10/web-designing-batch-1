@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    form {
+        background-color: rgb(206, 183, 227);
+        text-align: center;
+        text-transform: uppercase;
+        font-family: monospace;
+    }
+
+    #first,
+    #second,
+    #third {
+        height: 40px;
+        width: 300px;
+        background-color: rgb(146, 146, 181);
+        padding: 5px;
+    }
+
+    p {
+        text-indent: -190px;
+    }
+
+    h1 {
+        text-shadow: 0px 0px 10px black;
+    }
+
+    select {
+        height: 40px;
+        width: 320px;
+        background-color: rgb(165, 165, 197);
+        padding: 5px;
+    }
+
+    button {
+        height: 40px;
+        width: 150px;
+        background-color: rgb(100, 100, 180);
+        color: white;
+        text-transform: uppercase;
+    }
+
+    button:hover {
+        background-color: rgb(80, 80, 150);
+    }
+</style>
+
+<body>
+    <form>
+        <h1>Register Form</h1>
+        <div>
+            <p>Enter Your Name</p>
+            <input type="text" id="first">
+            <br><br>
+
+            <p>Enter Your Email</p>
+            <input type="email" id="second">
+            <br><br>
+
+            <p>Enter Your Password</p>
+            <input type="password" id="third">
+            <br><br>
+
+            <p>Gender</p>
+            <label><input type="radio" name="gender" value="male"> Male</label>
+            <label><input type="radio" name="gender" value="female"> Female</label>
+            <br><br>
+
+            <p>Select Your Country</p>
+            <select>
+                <option value="usa">USA</option>
+                <option value="canada">Canada</option>
+                <option value="uk">UK</option>
+                <option value="other">Other</option>
+            </select>
+            <br><br>
+
+            <label><input type="checkbox"> I agree to the terms and conditions</label>
+            <br><br>
+
+            <!-- Submit button -->
+            <button type="submit">Submit</button>
+        </div>
+    </form>
+</body>
+
+</html>
