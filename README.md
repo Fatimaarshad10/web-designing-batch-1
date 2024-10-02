@@ -70,12 +70,39 @@ Welcome to the Web Designing Batch 01 course! This 3-month course will cover ess
       <td>Layout , Formula , Data Section </td>
     </tr>
       </tr>
-      <tr>
+
+  </tbody>
+</table>
+ <h1>MS PowerPoint</h1>
+<table>
+  <thead>
+    <tr>
+       <th>Days</th>
+      <th>Class Focus</th>
+      <th>Completed Sections</th>
+    </tr>
+  </thead>
+  <tbody>
+         <tr>
        <td>Day 07 Wednesday, [04/09/2024]</td>
       <td>MS PowerPoint</td>
       <td>Complete</td>
     </tr>
-     <tr>
+    
+    
+  </tbody>
+</table>
+ <h1>HTML</h1>
+<table>
+  <thead>
+    <tr>
+       <th>Days</th>
+      <th>Class Focus</th>
+      <th>Completed Sections</th>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
        <td>Day 08 Wednesday, [11/09/2024]</td>
       <td>HTML (HYPER TEXT MARKUP LANGUAGE)</td>
       <td>Structure , text , lists </td>
@@ -90,7 +117,20 @@ Welcome to the Web Designing Batch 01 course! This 3-month course will cover ess
       <td>HTML (HYPER TEXT MARKUP LANGUAGE)</td>
       <td>Form , div/span , block/inline , id/class , CSS (Inline , External , Internal) </td>
     </tr>
+  </tbody>
+</table>
+
+ <h1>CSS</h1>
+<table>
+  <thead>
     <tr>
+       <th>Days</th>
+      <th>Class Focus</th>
+      <th>Completed Sections</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
        <td>Day 11 Wednesday, [02/10/2024]</td>
       <td>CSS (CASCADING STYLE SHEET)</td>
       <td>CSS (color , background-color , font , text) </td>
