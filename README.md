@@ -133,10 +133,10 @@ Welcome to the Web Designing Batch 01 course! This 3-month course will cover ess
   <tr>
        <td>Day 11 Wednesday, [02/10/2024]</td>
       <td>CSS (CASCADING STYLE SHEET)</td>
-      <td>CSS (color , background-color , font , text) </td>
+      <td>CSS (color,background-color,font,text) </td>
     </tr>
        <tr>
-       <td>Day 11 Wednesday, [09/10/2024]</td>
+       <td>Day 12 Wednesday, [09/10/2024]</td>
       <td>CSS (CASCADING STYLE SHEET)</td>
       <td>CSS (height,width,padding,margin,border) </td>
     </tr>
