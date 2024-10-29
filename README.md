@@ -141,9 +141,14 @@ Welcome to the Web Designing Batch 01 course! This 3-month course will cover ess
       <td>CSS (height,width,padding,margin,border) </td>
     </tr>
         <tr>
-       <td>Day 13 Wednesday, [17/10/2024]</td>
+       <td>Day 13 Wednesday, [16/10/2024]</td>
       <td>Mid Term Test </td>
       <td>Ms word , Ms excel , Ms powerpoint </td>
+    </tr>
+      <tr>
+       <td>Day 14 Wednesday, [23/10/2024]</td>
+      <td>CSS (CASCADING STYLE SHEET)</td>
+      <td>Display flex , block & inline element </td>
     </tr>
   </tbody>
 </table>
