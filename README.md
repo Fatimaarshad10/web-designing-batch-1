@@ -150,5 +150,10 @@ Welcome to the Web Designing Batch 01 course! This 3-month course will cover ess
       <td>CSS (CASCADING STYLE SHEET)</td>
       <td>Display flex , block & inline element </td>
     </tr>
+      <tr>
+       <td>Day 15 Wednesday, [30/10/2024]</td>
+      <td>Bootstrap</td>
+      <td>Position , Navbar , button , text , flex </td>
+    </tr>
   </tbody>
 </table>
