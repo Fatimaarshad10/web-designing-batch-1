@@ -155,5 +155,29 @@ Welcome to the Web Designing Batch 01 course! This 3-month course will cover ess
       <td>Bootstrap</td>
       <td>Position , Navbar , button , text , flex </td>
     </tr>
+      <tr>
+       <td>Day 16 Wednesday, [06/11/2024]</td>
+      <td>Bootstrap</td>
+      <td>design implement </td>
+    </tr>
+    </tbody>
+</table>
+     <h1>JAVASCRIPT</h1>
+<table>
+  <thead>
+    <tr>
+       <th>Days</th>
+      <th>Class Focus</th>
+      <th>Completed Sections</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+       <td>Day 17 Wednesday, [13/10/2024]</td>
+      <td>JavaScript</td>
+      <td>Primitive or Non primitive data type , condition , All Operators </td>
+    </tr>
+    
+    
   </tbody>
 </table>
