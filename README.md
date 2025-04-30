@@ -177,6 +177,11 @@ Welcome to the Web Designing Batch 01 course! This 3-month course will cover ess
       <td>JavaScript</td>
       <td>Primitive or Non primitive data type , condition , All Operators </td>
     </tr>
+     <tr>
+       <td>Day 18 Wednesday, [13/10/2024]</td>
+      <td>JavaScript</td>
+      <td>Primitive or Non primitive data type , condition , All Operators </td>
+    </tr>
     
     
   </tbody>
